@@ -39,7 +39,7 @@ Vector positions
 	
 	SEQUENCE: __ARGS[0] ... __ARGS[x]
 
-	__ARGS[0] = **File name (myscript.lua)**
-	__ARGS[1] = **First argument (new)**
-	__ARGS[2] = **Second argument (helloworld)**
-	__ARGS[3] = **Third argument (message)**
+	__ARGS[0] = File name (myscript.lua)
+	__ARGS[1] = First argument (new)
+	__ARGS[2] = Second argument (helloworld)
+	__ARGS[3] = Third argument (message)
