@@ -7,10 +7,11 @@ Gabriel Margarido - May 15th 2021
 Software Version 1.0 - Rio de Janeiro, Brazil
 
 
-##Including this module
+Including this module
+	
 	local arguments = require("arguments")
 
-##Special variables
+Special variables
 
 	__QUOT (Quotation Marks)
 
@@ -18,23 +19,27 @@ Software Version 1.0 - Rio de Janeiro, Brazil
 
 	__EOL = (End Of Line) (\n)
 
-##Commercial variables
+Commercial variables
+
 	__COPYRIGHT = (Copyright Mark Symbol)
 	
 	__REGISTERED = (Registered Mark Symbol)
 	
 	__TRADEMARK = (Trademark Symbol)
 
-##Argument vector variable
+Argument vector variable
+	
 	__ARGS = (Command Line Arguments)
 
-##Command Line
+Command Line
 
 	~/$ lua myscript.lua new helloworld message
 
-##Vector positions
+Vector positions
+	
 	SEQUENCE: __ARGS[0] ... __ARGS[x]
-###__ARGS[0] = **File name (myscript.lua)**
-###__ARGS[1] = **First argument (new)**
-###__ARGS[2] = **Second argument (helloworld)**
-###__ARGS[3] = **Third argument (message)**
+
+	__ARGS[0] = **File name (myscript.lua)**
+	__ARGS[1] = **First argument (new)**
+	__ARGS[2] = **Second argument (helloworld)**
+	__ARGS[3] = **Third argument (message)**
