@@ -46,7 +46,7 @@ Logic examples
 	if __ARGS[1] == "new" then
 		--#CODE HERE
 		
-	elseif __ARGS[1] == "old" then
+	elseif __ARGS[2] == "old" then
 		--#CODE HERE
 	else
 		--#CODE HERE
