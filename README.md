@@ -1,5 +1,5 @@
 # Lua Arguments
-Licensed under BSD 3-clause free software and open source license  
+Licensed under BSD 3-clause Free Software and Open Source license  
 Software Version 1.0 - May 15th 2021  
   
   
