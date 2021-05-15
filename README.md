@@ -1,10 +1,6 @@
 # Lua Arguments
-Licensed under BSD 3-clause free software and open source license
-  
-  
-Gabriel Margarido - May 15th 2021
-  
-Software Version 1.0 - Rio de Janeiro, Brazil
+Licensed under BSD 3-clause free software and open source license  
+Software Version 1.0 - May 15th 2021  
   
   
   
