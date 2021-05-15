@@ -40,3 +40,14 @@ Vector positions
 	__ARGS[1] = First argument (new)
 	__ARGS[2] = Second argument (helloworld)
 	__ARGS[3] = Third argument (message)
+	
+Logic examples
+
+	if __ARGS[1] == "new" then
+		--#CODE HERE
+		
+	elseif __ARGS[1] == "old" then
+		--#CODE HERE
+	else
+		--#CODE HERE
+	end
